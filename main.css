@@ -5,15 +5,20 @@ body{
 h1 {
     background-color: red;}
 #vis{
-    background-color: midnightblue;}
+    background-color: midnightblue;
+        color: chocolate;}
     #vis1{
-    background-color: orange;}    
+    background-color: orange;
+        color: bisque;}    
     #vis2{
-        background-color: peru;}
+        background-color: peru;
+            color: blue;}
         #vis3{
-            background-color: yellowgreen ;}
+            background-color: yellowgreen ;
+                color: crimson;}
             #vis4{
-                background-color: maroon;}
+                background-color: maroon;
+                    color: gold;}
 
 #foto1{
     background-color: deeppink;}
@@ -33,14 +38,19 @@ h1 {
                                 background-color: blue;}
 
                                 #haai{
-                                    background-color: powderblue;}
+                                    background-color: powderblue;
+                                        color: firebrick;}
                                     #haai1{
-                                    background-color: palevioletred;}    
+                                    background-color: palevioletred;
+                                        color: indigo;}    
                                     #haai2{
-                                        background-color: purple;}
+                                        background-color: purple;
+                                            color: teal;}
                                         #haai3{
-                                            background-color: mediumseagreen ;}
+                                            background-color: mediumseagreen ;
+                                                color: darkorange;}
                                             #haai4{
-                                                background-color: mistyrose;}
+                                                background-color: mistyrose;
+                                                    color: lime;}
  footer {
     background-color: red;}
